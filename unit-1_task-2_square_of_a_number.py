@@ -2,6 +2,6 @@
 
  # Write a python program to display the square of a number
 
-"""num=int(input("Enter num"))
+num=int(input("Enter num"))
 Result = num*num
-print(Result)"""
+print(Result)
